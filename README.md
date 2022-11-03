@@ -1,2 +1,2 @@
 # agar.io
-Created with CodeSandbox
+download the zip to use
